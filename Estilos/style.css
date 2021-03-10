@@ -1,0 +1,59 @@
+body {
+    background-size: 1700px 1400px;
+    background-image: url("fondostyle.jpg");
+}
+h1 {
+    font-size: 50px;
+    background-size: 100%;
+    background-image: url("fondo.jpeg");
+    color: #ffffff;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #CF8EE9;
+    border-radius: 140px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    padding: 50px 25px 50px 25px;
+}
+
+p.uno {
+     font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #BFEFD6;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #A3E1FE;
+    border-radius: 140px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    padding: 50px 25px 50px 25px;
+
+}
+  
+p.dos {
+     font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #FBAEEB;
+   border-style: solid;
+    border-width: 10px;
+    border-color: #EDF4BA;
+    border-radius: 140px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    padding: 50px 25px 50px 25px;
+} 
